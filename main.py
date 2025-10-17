@@ -15,7 +15,7 @@ path = kagglehub.dataset_download("maharshipandya/-spotify-tracks-dataset")
 print("Path to dataset files:", path)
 
 df = pd.read_csv("C:\\Users\\Anindita\\.cache\\kagglehub\\datasets\\maharshipandya\\-spotify-tracks-dataset\\versions\\1\\dataset.csv")
-df_sampled = df.sample(n=20,random_state=45)
+df_sampled = df.sample(n=500,random_state=5)
 
 features = ['danceability','energy','key','loudness','mode','speechiness','acousticness','instrumentalness','liveness','valence','tempo','track_genre']
 df_features = df_sampled[features]
@@ -37,10 +37,12 @@ cluster_summary = df_sampled.groupby('cluster')[[
     'acousticness', 'instrumentalness', 'loudness'
 ]].mean()
 
+print(cluster_summary)
+
 cluster_moods = {
-    0: "Chill pop",
-    1: "Dance / Upbeat",
-    2: "Sad accoustic"
+    0: "Sad / Acoustic",
+    1: "Happy / Upbeat",
+    2: "Electronic / Dance"
 }
 
 df_sampled['mood_label'] = df_sampled['cluster'].map(cluster_moods)
@@ -53,3 +55,5 @@ print(df_final.columns)
 
 df_final.to_csv('spotify_mood_clusters.csv', index=False)
 cluster_summary.to_csv('cluster_summary.csv')
+
+
