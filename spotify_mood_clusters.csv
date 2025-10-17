@@ -1,0 +1,21 @@
+artists,album_name,track_name,popularity,cluster,mood_label,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,track_genre
+Thom Yorke,Suspiria (Music for the Luca Guadagnino Film),Suspirium,59,2,Sad accoustic,0.457,0.223,1,-15.432,0,0.0317,0.988,0.918,0.135,0.438,150.998,electronic
+Jasleen Royal;TM Bax;Radhika Madan,Ni Jana,Ni Jana,52,1,Dance / Upbeat,0.758,0.483,8,-5.549,0,0.0712,0.563,2.28e-06,0.139,0.502,104.893,indian
+Tony Matterhorn,Jamaican Style,Ready fi di party,19,2,Sad accoustic,0.911,0.616,1,-12.46,1,0.272,0.569,0.00795,0.154,0.467,120.999,j-dance
+Melorman,Far Away Morning,Lemetrom,12,0,Chill pop,0.469,0.712,7,-8.757,1,0.0299,0.227,0.597,0.135,0.277,160.01,idm
+Mokita,4201,I Still Do,54,0,Chill pop,0.538,0.489,4,-11.155,1,0.0523,0.193,8.88e-05,0.209,0.393,79.245,chill
+David Guetta;Bebe Rexha;J Balvin,Dance Dance Dance,Say My Name,0,1,Dance / Upbeat,0.703,0.66,10,-5.119,0,0.123,0.137,0.0,0.192,0.79,95.033,edm
+Moodymann,Silentintroduction,Answer Machine,17,1,Dance / Upbeat,0.672,0.888,10,-9.885,0,0.0775,0.00155,0.897,0.665,0.385,120.0,detroit-techno
+Lamb of God,As The Palaces Burn,Vigil,45,0,Chill pop,0.326,0.949,2,-5.027,1,0.12,0.0002,0.00115,0.091,0.12,106.145,metalcore
+Parthiv Gohil,Golkeri (Original Motion Picture Soundtrack),Amastu Amastu,32,1,Dance / Upbeat,0.584,0.542,10,-6.775,1,0.0775,0.726,0.0,0.0794,0.694,175.114,folk
+Nikolay Kopylov,Popular Opera Arias,"""Eugene Onegin"" Ariozo Of Onegin",0,0,Chill pop,0.443,0.514,10,-8.068,1,0.0924,0.988,0.00187,0.0918,0.244,100.752,romance
+boppy af,curveball,curveball,27,2,Sad accoustic,0.673,0.422,9,-7.871,0,0.0551,0.936,0.778,0.109,0.122,90.023,study
+Theo Parrish,"Sound Sculptures, Vol. 1",The Rink,5,1,Dance / Upbeat,0.784,0.73,10,-15.52,0,0.0436,0.0218,0.719,0.295,0.953,98.473,detroit-techno
+Wolfgang Amadeus Mozart;Alicia de Larrocha,Mozart - Inspiring Classics,"Piano Sonata No. 16 in C Major, K. 545 ""Sonata facile"": III. Rondo. Allegro",2,2,Sad accoustic,0.48,0.132,0,-23.049,1,0.0402,0.99,0.926,0.166,0.596,123.973,classical
+Luiz Gonzaga,Mega Hits - Luiz Gonzaga,Asa Branca,41,0,Chill pop,0.687,0.612,7,-6.329,1,0.0322,0.472,0.0,0.0886,0.962,121.021,mpb
+gosha,Чернобыль,Чернобыль,38,0,Chill pop,0.761,0.843,2,-1.831,1,0.145,0.00727,0.2,0.0755,0.396,104.971,club
+Hayd,Lost,Lost,58,2,Sad accoustic,0.386,0.168,8,-14.768,1,0.0367,0.938,0.00995,0.0819,0.312,126.473,songwriter
+Rod Stewart,Best Christmas Songs 2022,Have Yourself A Merry Little Christmas,0,0,Chill pop,0.401,0.175,2,-12.22,1,0.0314,0.927,2.1e-06,0.103,0.29,68.049,rock
+Delano Smith,An Odyssey,Midnight Hours,10,1,Dance / Upbeat,0.91,0.681,4,-8.335,0,0.195,0.107,0.866,0.105,0.342,124.994,detroit-techno
+Morgan Page;VIVID,Fade Away,Fade Away,66,0,Chill pop,0.694,0.703,7,-4.327,1,0.0593,0.0319,0.0,0.119,0.172,123.034,progressive-house
+The Cars,Maintain Your Mojo,Just What I Needed,0,0,Chill pop,0.64,0.627,4,-9.048,1,0.0428,0.00948,0.000134,0.0764,0.793,127.07,hard-rock
